@@ -3,11 +3,11 @@ module.exports.mess = {
 	        ban: 'Maaf nomor kamu sudah terbanned, Silahkan hubungi owner❗',
 			success: 'Selesai...',
 			limit: `Limit kamu sudah habis silahkan kirim .limit untuk mengecek limit`,
-			wrongFormat: 'Format salah, coba liat lagi di menu',
+			wrongFormat: 'Kalo nulis minimal benar Asu🗿',
 			error: {
 				api: 'Maaf, seperti terjadi kesalahan',
 				stick: 'Itu bukan stiker kak... Hadeeh',
-				Iv: 'Link mungkin tidak valid'
+				Iv: 'Lu Kirim link paan anjing❗'
 			},
 			only: {
 				group: 'Maaf❗ Command ini khusus untuk di dalam Group saja.',
